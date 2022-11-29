@@ -1,11 +1,12 @@
-<img src="./logo.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="./edcabralc.png" align="center" alt="Edvaldo Cabral | Front-End">
 
-<p align="left"> 
+## &nbsp;
+
+<p> 
   Sempre fui apaixonado por tecnologia. Formado em Sistemas de Informação em 2017 na Universidade Mauricio de Nassau, tive a opotunidade de participar de vários bootcamps e atualmente estou na T.EX Technology Experts na trilha Fullstack JavaScript, sigo me aperfeiçoando em <strong>HTML5 | CSS3 | javaScript | React.js | Next.js | Git | GitHub.</strong>
 </p>
 
-<p align="left">
-  🦄 Também estou Estudando: <strong>Node | SQL | Metodologias Agéis | UX-UI</strong>
+<p>🦄 Também estou Estudando: <strong>Node | SQL | Metodologias Agéis | UX-UI</strong>
 </p>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
