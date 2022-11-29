@@ -8,10 +8,8 @@
   🦄 Também estou Estudando: <strong>Node | SQL | Metodologias Agéis | UX-UI</strong>
 </p>
 
-<p align="left">
-  <a href="mailto:cabralnet@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
-  <a href="https://www.linkedin.com/in/edcabralc/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-</p>
+[![Linkedin: Edvaldo Cabral](<https://img.shields.io/badge/-Edvaldo Cabral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/edcabralc/)>)](https://www.linkedin.com/in/edcabralc/)
+
+[![Gmail Badge](https://img.shields.io/badge/-cabralnet@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cabralnet@gmail.com)](mailto:cabralnet@gmail.com)
