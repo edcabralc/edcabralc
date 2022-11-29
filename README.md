@@ -13,3 +13,7 @@
 [![Linkedin: Edvaldo Cabral](<https://img.shields.io/badge/-Edvaldo Cabral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/edcabralc/)>)](https://www.linkedin.com/in/edcabralc/)
 
 [![Gmail Badge](https://img.shields.io/badge/-cabralnet@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cabralnet@gmail.com)](mailto:cabralnet@gmail.com)
+
+<a href="https://github.com/edcabralc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edcabralc&theme=dracula&show_icons=true" />
+</a>
