@@ -3,11 +3,13 @@
 ## &nbsp;
 
 <p> 
-  Sempre fui apaixonado por tecnologia. Formado em Sistemas de Informação em 2017 na Universidade Mauricio de Nassau, tive a opotunidade de participar de vários bootcamps e atualmente estou na T.EX Technology Experts na trilha Fullstack JavaScript, sigo me aperfeiçoando em <strong>HTML5 | CSS3 | javaScript | React.js | Next.js | Git | GitHub.</strong>
+A tecnologia, para mim, é mais do que apenas ferramentas — é a forma de transformar ideias em algo real. Formado em Sistemas de Informação pela Universidade Maurício de Nassau em 2017, passei por diversos bootcamps que me ajudaram a fortalecer minhas habilidades em HTML5, CSS3, JavaScript, React.js, Next.js e controle de versão com Git e GitHub.
+</p>
+<p>
+Atualmente, estou expandindo meus horizontes para o back-end, estudando Node.js, Prisma e TypeScript, com o objetivo de criar soluções completas e integradas. Meu foco é transformar desafios em oportunidades de crescimento, combinando criatividade e técnica para criar soluções eficientes e inovadoras. Estou em uma jornada contínua de aprendizado, sempre em busca de novos horizontes no desenvolvimento web.
 </p>
 
-<p>🦄 Também estou Estudando: <strong>Node | SQL | Metodologias Agéis | UX-UI</strong>
-</p>
+
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
@@ -18,3 +20,4 @@
 <a href="https://github.com/edcabralc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edcabralc&theme=dracula&show_icons=true" />
 </a>
+
